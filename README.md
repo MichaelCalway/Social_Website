@@ -1,3 +1,5 @@
 + # Social_Website
 + Social Manna.
-+ Simple Log-in/ password Prompt popup, with simple linked news feed from other users via the browser console.
++ Simple Log-in/ password Prompt popup.
++ Variible database.
++ Simple linked news feed from an Array (with nested objects) as other users (viewable within the browser console).
