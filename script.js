@@ -42,5 +42,8 @@ function signIn(user, pass) {
     }
 }
 
+var userNamePrompt = prompt("What\'s your username?");
+var passNamePrompt = prompt("What\'s your password?");
+
 signIn(userNamePrompt, passWordPrompt);
 
